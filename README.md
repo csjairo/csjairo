@@ -5,5 +5,6 @@ Meu nome é Jairo Holanda, sou aluno de Ciência da Computação na Universidade
 Atualmente estudo desenvolvimento back-end usando Java e Spring Framework 🌱. Também estudo sobre desenvolvimento front-end com Angular e React (JavaScript). Também tenho intesse em Cloud Computing como Azure ou AWS Cloud ☁️.
 
 ## Redes sociais 👥
-Conecte-se comigo em meu LinkedIn! Link abaixo.
+Conecte-se comigo em meu LinkedIn!
+
 [LinkedIn de Jairo Holanda](https://www.linkedin.com/in/jairohdasilva/)
