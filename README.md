@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="200">
-  <img src="https://media1.tenor.com/m/p34oU47DQ-8AAAAd/monkey-conduciendo.gif" width="200">
-  <img src="https://media1.tenor.com/m/Y1kOnQA6necAAAAd/skull-skull-meme.gif" width="200">
-  <img src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif" width="200">
+  <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="100%">
+  <img src="https://media1.tenor.com/m/p34oU47DQ-8AAAAd/monkey-conduciendo.gif" width="100%">
+  <img src="https://media1.tenor.com/m/Y1kOnQA6necAAAAd/skull-skull-meme.gif" width="100%">
+  <img src="https://media1.tenor.com/m/CgGUXc-LDc4AAAAC/hacker-pc.gif" width="100%">
 </p>
 
 
