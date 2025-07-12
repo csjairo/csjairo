@@ -1,4 +1,4 @@
-![Salesman]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding-gif-14608796176911893558))
+![Salesman](https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif)
 
 ## Olá 👋
 
