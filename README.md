@@ -4,7 +4,7 @@ Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Univers
 
 ## Sobre Desenvolvimento 💻
 
-Atualmente, estou estudando desenvolvimento back-end com Java e o Spring Framework 🌱. Também estou aprendendo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure ou AWS Cloud ☁️.
+Atualmente, estou estudando desenvolvimento back-end com Java e o Spring Framework 🌱. Também estou aprendendo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure e AWS Cloud ☁️.
 
 ## Redes Sociais 👥
 
