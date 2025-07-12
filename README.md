@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="14608796176911893558" data-share-method="host" data-aspect-ratio="0.901606" data-width="100%"><a href="https://tenor.com/view/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding-gif-14608796176911893558">Salesman Edit After Effects Tik Tok Style Salesman Gong Yoo Noding GIF</a>from <a href="https://tenor.com/search/salesman+edit+after+effects+tik+tok+style+salesman+gong+yoo+noding-gifs">Salesman Edit After Effects Tik Tok Style Salesman Gong Yoo Noding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Salesman]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding-gif-14608796176911893558))
 
 ## Olá 👋
 
