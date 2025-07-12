@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), no campus de Quixadá. Tenho um grande interesse por Ciência e sou particularmente atraído pela Filosofia da Computação e pela Filosofia da Tecnologia.
+Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), no campus de Quixadá. Sou interessado em qualquer assunto que envolva Ciência da Computação.
 
 ## Sobre Desenvolvimento 💻
 
