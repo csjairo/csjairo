@@ -1,7 +1,9 @@
-<div style="width: 200px; height: 200px; overflow: hidden; border-radius: 50%; margin: auto;">
-  <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" 
+<div style="width: 200px; height: 200px; margin: auto;">
+  <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif"
        alt="Salesman"
-       style="width: 100%; height: 100%; object-fit: cover; display: block;">
+       width="200"
+       height="200"
+       style="object-fit: cover; display: block;">
 </div>
 
 ## Olá 👋
