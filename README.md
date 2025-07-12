@@ -1,8 +1,11 @@
-## Hi there 👋  
-My name is Jairo Holanda, and I am a Computer Science student at the Federal University of Ceará (UFC) in Quixadá. With a strong interest in Science, I am particularly drawn to the Philosophy of Computer Science and the Philosophy of Technology.
+## Olá 👋
 
-## About Development 💻  
-I am currently studying back-end development using Java and the Spring Framework 🌱. I am also learning front-end development with Angular and React (JavaScript). Additionally, I have an interest in Cloud Computing, such as Azure or AWS Cloud ☁️.
+Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC), no campus de Quixadá. Tenho um grande interesse por Ciência e sou particularmente atraído pela Filosofia da Computação e pela Filosofia da Tecnologia.
 
-## Social Media 👥  
-Connect with me on LinkedIn! Link in my profile. Want to send me an email? Use: jairohdasilva@alu.ufc.br.
+## Sobre Desenvolvimento 💻
+
+Atualmente, estou estudando desenvolvimento back-end com Java e o Spring Framework 🌱. Também estou aprendendo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure ou AWS Cloud ☁️.
+
+## Redes Sociais 👥
+
+Conecte-se comigo no LinkedIn! Link no meu perfil. Quer me enviar um e-mail? Use: [jairohdasilva@alu.ufc.br](mailto:jairohdasilva@alu.ufc.br).
