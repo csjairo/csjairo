@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="left" style="width: 100%;">
-      Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) — Quixadá. Sou interessado em qualquer assunto que envolva Ciência da Computação.
+      Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) — Quixadá. Sou interessado em qualquer assunto que envolva Ciência da Computação. Criptomoedas são legais.
     </td>
     <td align="right">
       <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="100" height="100">
