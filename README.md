@@ -12,7 +12,16 @@
 
 ## Sobre Desenvolvimento 💻
 
+<table>
+  <tr>
+    <td align="right">
+      <img src="https://media.tenor.com/64kfxuF34SwAAAAi/clouds-sky.gif" width="100" height="100">
+    </td>
+    <td style="width: 100%;">
 Estudo desenvolvimento back-end com Java e o Spring Framework 🌱. Também estudo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure e AWS Cloud ☁️.
+    </td>
+  </tr>
+</table>
 
 ## Redes Sociais 👥
 
