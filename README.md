@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td align="left" style="width: 100%;">Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) — Quixadá. Criptomoedas são legais. Inteligência Artificial é legal. Algoritmos são legais. Back-end é legal. Jogos são legais. A arquitetura do hardware do PS2/PS3 é legal. Compiladores, redes e criptografia são complicados, mas legais.
+    <td align="left" style="width: 100%;">Meu nome é Jairo Holanda e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC) — Quixadá. Criptomoedas são legais. Inteligência Artificial é legal. Algoritmos são legais. Back-end é legal. Jogos são legais. A arquitetura do hardware do PS2/PS3 é legal. Compiladores, redes e criptografia são complicados, mas legais. É óbvio que eu uso Linux.
     </td>
     <td align="right">
-      <img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="100" height="100">
+      <img src="https://media.tenor.com/CFbru9QGwsQAAAAi/pinguim.gif" width="100" height="100">
     </td>
   </tr>
 </table>
