@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="150px" height="150px">
+<img src="https://media1.tenor.com/m/yrzeuODrBDYAAAAC/salesman-edit-after-effects-tik-tok-style-salesman-gong-yoo-noding.gif" width="100px" height="100px">
 
 ## Olá 👋
 
