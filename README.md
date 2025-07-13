@@ -18,7 +18,7 @@
       <img src="https://media.tenor.com/64kfxuF34SwAAAAi/clouds-sky.gif" width="100" height="100">
     </td>
     <td style="width: 100%;">
-Estudo desenvolvimento back-end com Java e o Spring Framework 🌱. Também estudo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure e AWS Cloud ☁️. Eu sou um super-herói 🦸‍♂️ (contém ironia).
+Estudo desenvolvimento back-end com Java e o Spring Framework 🌱. Também estudo desenvolvimento front-end com Angular e React (JavaScript). Integro isto ao mínimo necessário de conhecimento sobre Cloud Computing ☁️, para deploy de aplicações.
     </td>
   </tr>
 </table>
