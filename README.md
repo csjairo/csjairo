@@ -12,7 +12,7 @@
 
 ## Sobre Desenvolvimento 💻
 
-Atualmente estudo desenvolvimento back-end com Java e o Spring Framework 🌱. Também estudo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure e AWS Cloud ☁️.
+Estudo desenvolvimento back-end com Java e o Spring Framework 🌱. Também estudo desenvolvimento front-end com Angular e React (JavaScript). Além disso, tenho interesse em Computação em Nuvem, como Azure e AWS Cloud ☁️.
 
 ## Redes Sociais 👥
 
