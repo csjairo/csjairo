@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/64kfxuF34SwAAAAi/clouds-sky.gif" width="80px" height="80px">
+<img src="https://media1.tenor.com/m/3GgX9XG4fe0AAAAd/blue-fly.gif" width="300px" height="300px">
 
 # Olá 👋
 Meu nome é Jairo Holanda e sou aluno de Ciência da Computação na Universidade Federal do Ceará, em Quixadá.
